@@ -1,6 +1,6 @@
 **CERN and FNAL Offline Software for Computing Onboarding** 
 
-Step 1: Registering a CERN account for CMS
+# Step 1: Registering a CERN account for CMS
 
 On you go: [https://cms.cern.ch/iCMS/user/registration](https://cms.cern.ch/iCMS/user/registration)
 
@@ -16,7 +16,7 @@ After getting approved from the CMS Secretariat
 * CMS Institute: UC San Diego (from the dropdown under United States)  
 * Leave the Non-CMS Institute field blank. The form will still let you move on. 
 
-Step 2: Registering an FNAL account
+# Step 2: Registering an FNAL account
 
 Go to: [https://get-connected.fnal.gov/users-affiliates-access/](https://get-connected.fnal.gov/users-affiliates-access/) 
 
@@ -32,7 +32,7 @@ Key details:
 
 This process is likely to take longer if you are not a U.S. citizen. 
 
-Step 3: Setting up CERN account after access is granted 
+# Step 3: Setting up CERN account after access is granted 
 
 This step involves creating a new password and obtaining some certifications that are required in order to access CERN’s software. 
 
@@ -40,11 +40,11 @@ Send an email (from your .edu email) to [service-desk@cern.ch](mailto:service-de
 
 Once you get a reply, immediately login and create a new password. Within the next 5 days, you have to complete a mandatory Computing Security certification on [https://lms.cern.ch](https://lms.cern.ch/). It can be found under the mandatory courses section. The certification consists of a slideshow that is 13 slides long and has a quiz with 10 questions on it. You have to get all 10 questions correct and sign the Computing Rules agreement in order to receive the certification. It might take up to 24 hours to reflect on your CERN homepage. 
 
-Step 4: Setting up FNAL account after access is granted
+# Step 4: Setting up FNAL account after access is granted
 
 Send an email to [servicedesk@fnal.gov](mailto:servicedesk@fnal.gov) asking them to set up a zoom meeting in order for them to be able to give you two passwords: one for Kerberos and another for FNAL services 
 
-Step 5: Configuration of your device and the grid certificate 
+# Step 5: Configuration of your device and the grid certificate 
 
 Follow the instructions on [https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookStartingGrid\#BasicGrid](https://twiki.cern.ch/twiki/bin/view/CMSPublic/WorkBookStartingGrid#BasicGrid) to learn more about setting up the grid certificate. 
 
